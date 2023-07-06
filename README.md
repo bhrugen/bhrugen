@@ -10,9 +10,6 @@ I am a passionate software developer with passion to share knowledge and tech pr
 
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
-
 <img src="https://github.com/bhrugen/bhrugen/blob/main/githubLogo.png" alt="bhrugen" />
  <details>
 <summary>📊 Github Stats</summary>
