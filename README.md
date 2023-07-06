@@ -8,6 +8,8 @@ I am a passionate software developer with passion to share knowledge and tech pr
 
 [![Website URL](https://img.shields.io/static/v1?color=green&label=DotNetMastery&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://dotnetmastery.com/)
 
+### Visitor count
+<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
 
 
 <img src="https://github.com/bhrugen/bhrugen/blob/main/githubLogo.png" alt="bhrugen" />
