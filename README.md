@@ -6,7 +6,7 @@ I am a passionate software developer with passion to share knowledge and tech pr
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/bhrugenpatel)
 
-[![Website URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=website&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/bhrugenpatel)
+[![Website URL](https://img.shields.io/static/v1?color=green&label=DotNetMastery&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://dotnetmastery.com/)
 
 
 
