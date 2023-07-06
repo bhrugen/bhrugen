@@ -14,12 +14,18 @@ I am a passionate software developer with passion to share knowledge and tech pr
 
 <img src="https://github.com/bhrugen/bhrugen/blob/main/githubLogo.png" alt="bhrugen" />
 
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats-bhrugen.vercel.app/api?username=bhrugen&show_icons=true&line_height=21&theme=react" alt="Bhrugen's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+<hr/>
+## &#x1f4c8; GitHub Stats
+
+<p><a href="https://github.com/bhrugen/bhrugen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhrugen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bhrugen's GitHub Stats" />
+</a>
+<a href="https://github.com/bhrugen/bhrugen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrugen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 </p>
+
 
 - 🔭 I’m currently working on DotNetMastery's new content!
 - 📫 How to reach me: dotnetmastery@gmail.com
