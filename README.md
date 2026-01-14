@@ -16,34 +16,19 @@
 
 ---
 
-## 🎥 Subscribe to My YouTube Channel!
+
 
 <div align="center">
+  ## 🎥 Subscribe to My YouTube Channel!
   
-  ### 🔴 **DotNetMastery** - Learn .NET, C#, ASP.NET Core & More!
   
   [![YouTube Channel](https://img.shields.io/badge/▶️_SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE1312)](https://www.youtube.com/c/dotnetmastery)
-  
-  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq9FX300kRy1mZiKW0BP6Kg?style=social&logo=youtube)](https://www.youtube.com/c/dotnetmastery)
-  [![YouTube Views](https://img.shields.io/youtube/channel/views/UCq9FX300kRy1mZiKW0BP6Kg?style=social&logo=youtube)](https://www.youtube.com/c/dotnetmastery)
   
   **📚 100+ Free Tutorials | 💻 Real-World Projects | 🎓 Beginner to Advanced**
   
   *Join thousands of developers learning .NET development through practical, hands-on courses!*
   
-</div>
-
-<div align="center">
-  
-  | 🎯 What You'll Learn |
-  |---------------------|
-  | ✅ ASP.NET Core MVC & Web API |
-  | ✅ Entity Framework Core & SQL Server |
-  | ✅ Blazor & Modern Web Development |
-  | ✅ Azure Cloud Services |
-  | ✅ Clean Architecture & Best Practices |
-  | ✅ Real-World Project Development |
-  
+ 
   ### 👉 [**Click Here to Watch Latest Tutorials**](https://www.youtube.com/c/dotnetmastery) 👈
   
 </div>
