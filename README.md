@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/bhrugen/bhrugen/blob/main/githubLogo.png" alt="Bhrugen Patel" width="200"/>
+  <img src="https://github.com/bhrugen/bhrugen/blob/main/githubLogo.png" alt="Bhrugen Patel" width="100%" style="max-width: 1200px;"/>
   
   # Hi there, I'm Bhrugen Patel 👋
   
@@ -78,19 +78,6 @@ I'm a software developer with a deep passion for sharing knowledge and helping o
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
   
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhrugen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrugen&layout=compact&theme=tokyonight&hide_border=true&hide=java,html,tex"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhrugen&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
